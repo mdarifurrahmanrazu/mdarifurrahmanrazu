@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarifurrahmanrazu&label=Profile%20views&color=0e75b6&style=flat" alt="mdarifurrahmanrazu" /> </p>
 
-- 🌱 I’m currently learning **C Programming, Java, C++, Python, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **C Programming, Data Structure, Algorithm, Java, C++, Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **mdarifurrahmanrazu@gmail.com**
 
